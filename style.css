@@ -127,12 +127,44 @@ main {
 .team-discription {
     color: #727272;
     font-size: 1rem;
-
+    margin-bottom: 1.5rem;
 
     font-weight: 400;
 
 }
+.facts-discription{
+    color: #727272;
+    width: 530px;
 
+font-size: 1rem;
+
+font-weight: 400;
+
+
+
+}
+.facts-card-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.facts-card-container .card{
+    border-radius: 8px;
+border: 1px solid #FF900E;
+text-align: center;
+padding:  30px;
+}
+.facts-card-container .card-stats{
+    color: #424242;
+    font-size: 2.8rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.facts-card-container .card-title{
+    color: #727272;
+    font-size: 1.2rem;
+    margin-top: 5px;
+}
 
 
 
