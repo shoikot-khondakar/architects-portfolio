@@ -297,7 +297,12 @@ bottom: 100px;
         width: auto;
     }
     .features-img img{
-        width: 100%;
+        width: 90%;
+        margin-left: 0;
+    }
+    .ten-years-batch{
+        position: static;
+        max-width: 300px;
     }
     
 }
